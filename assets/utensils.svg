@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="700" height="480" viewBox="0 0 700 480"><rect width="700" height="480" fill="#f4f1eb"/><circle cx="560" cy="95" r="65" fill="#e7eee9"/><circle cx="120" cy="400" r="85" fill="#ebe3d4"/><rect x="90" y="85" width="520" height="300" rx="28" fill="#ffffff"/><rect x="130" y="130" width="440" height="190" rx="22" fill="#eef5f1"/><text x="350" y="215" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#123C2F">Kitchen Utensils</text><text x="350" y="260" text-anchor="middle" font-family="Arial" font-size="22" fill="#50635b">Spatula / spoon / turner set</text><rect x="240" y="300" width="220" height="12" rx="6" fill="#D8A75C" opacity=".85"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680">
+    <defs>
+      <linearGradient id="bg" x1="0" x2="1">
+        <stop offset="0" stop-color="#f4f1eb"/>
+        <stop offset="1" stop-color="#e8f0eb"/>
+      </linearGradient>
+    </defs>
+    <rect width="900" height="680" fill="url(#bg)"/>
+    <circle cx="760" cy="110" r="82" fill="#dfeae4"/>
+    <circle cx="130" cy="560" r="110" fill="#e9dfcf"/>
+    <rect x="95" y="65" width="710" height="420" rx="38" fill="#ffffff" opacity=".88"/>
+    
+        <g stroke="#111" stroke-width="16" stroke-linecap="round">
+          <line x1="245" y1="95" x2="245" y2="340"/>
+          <line x1="315" y1="80" x2="315" y2="340"/>
+          <line x1="385" y1="95" x2="385" y2="340"/>
+          <line x1="455" y1="115" x2="455" y2="340"/>
+        </g>
+        <g fill="#d7a45d">
+          <ellipse cx="245" cy="80" rx="30" ry="22"/>
+          <rect x="285" y="60" width="60" height="65" rx="28"/>
+          <rect x="360" y="80" width="50" height="75" rx="12"/>
+          <ellipse cx="455" cy="105" rx="24" ry="18"/>
+        </g>
+        <rect x="185" y="325" width="330" height="45" rx="18" fill="#0f3f30"/>
+        
+    <text x="450" y="555" text-anchor="middle" font-family="Arial" font-size="42" font-weight="800" fill="#123C2F">Kitchen Utensil Set</text>
+    <text x="450" y="600" text-anchor="middle" font-family="Arial" font-size="22" fill="#53635d">Spatula / spoon / turner set</text>
+    </svg>
